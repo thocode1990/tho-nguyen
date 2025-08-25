@@ -1,0 +1,5 @@
+{
+  "name": "360° Image Viewer",
+  "description": "An interactive web application to view 360-degree equirectangular photos. Upload your own 360° image or view the default panorama. Pan and zoom to explore the immersive environment.",
+  "requestFramePermissions": []
+}
